@@ -1,4 +1,4 @@
-package com.todo.todolist;
+package com.todo.todolist.model;
 
 public class ResourceNotFoundException extends RuntimeException{
     public ResourceNotFoundException(String message) {

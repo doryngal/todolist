@@ -1,4 +1,4 @@
-package com.todo.todolist;
+package com.todo.todolist.model;
 
 public class ApiResponse {
     private boolean success;
